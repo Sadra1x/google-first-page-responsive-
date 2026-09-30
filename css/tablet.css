@@ -1,0 +1,14 @@
+@media screen and (max-width:850px) {
+ .head-div button{
+    border: 0;
+    border-radius: 100px;
+    background-color: #c2e7ff;
+    font-weight: 400;
+    font-size: 15px;
+    height: 45px;
+    width: 90px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+}
