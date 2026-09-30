@@ -1,0 +1,157 @@
+@media screen and (max-width:600px) {
+ .head-div button{
+    border: 0;
+    border-radius: 100px;
+    background-color: #c2e7ff;
+    font-weight: 400;
+    font-size: 9px;
+    height: 25px;
+    width: 50px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.circle-div{
+    height: 25px;
+    width: 25px;
+    border-radius: 500px;
+    position: absolute;
+    right: 70px;
+    top: 10px;
+    text-align: center;
+    padding-top: 6px;
+    color: #c4c7c5;
+    font-size: 13px;
+}
+.p-img{
+    height: 24px;
+    width: 43px;
+    position: absolute;
+    right:95px ;
+    top: 17px;
+    color:#c4c7c5;
+    text-decoration: none;
+    font-size: 10px;
+}.p-gmail{
+    height:24px ;
+    width:43px ;
+    position: absolute;
+    right:135px ;
+    top:17px ;
+    color:#c4c7c5;
+    text-decoration: none;
+    font-size: 10px;
+}
+.google-background{
+    height: 77px;
+    width: 190px;
+    background-image: url('Screenshot\ 1405-06-30\ at\ 22.13.40.png');
+    background-size: cover;
+    background-position: center;
+}
+.central-div input{
+    width:300px;
+    font-size: 25px;
+    border: 1px solid #c4c7c5 ;
+    background-color: #363840;
+    border-radius: 30px ;
+}
+.search-icon{
+    color: #9aa0a6;
+    position: absolute;
+    left: 14px;
+    top: 11px;
+    font-size: 11px !important; 
+}
+.mic{
+    position: absolute;
+    top: 12px;
+    right: 40px;
+    cursor: pointer;
+    font-size: 11px !important;
+}
+.cam{
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    cursor: pointer;
+    font-size: 11px !important;
+}
+.btn-center{
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 8px;
+    color: #e8eaed;
+    height: 28px;
+    width: 105px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 9px;
+    font-weight: 600;
+}
+.fot-sp-1 a{
+    margin:6px;
+    font-size: 9px;
+    color:#e8eaed;
+    text-decoration: none;
+}
+.fot-sp-2 a{
+    margin:6px;
+    font-size: 9px;
+    color:#e8eaed;
+    text-decoration: none;
+}
+.fot-sp-1{
+    position: absolute;
+    top: 13px;
+    left: 5%;
+}
+.fot-sp-2{
+    position: absolute;
+    top: 13px;
+    right: 5%;
+}
+
+}
+@media screen and (max-width:390px) {
+    .fot-sp-1 a{
+    margin:4px;
+    font-size: 7px;
+    color:#e8eaed;
+    text-decoration: none;
+}
+.fot-sp-2 a{
+    margin:4px;
+    font-size: 7px;
+    color:#e8eaed;
+    text-decoration: none;
+}
+.central-div input{
+    width:220px;
+    font-size: 20px;
+    border: 1px solid #c4c7c5 ;
+    background-color: #363840;
+    border-radius: 30px ;
+}
+.search-icon{
+    color: #9aa0a6;
+    position: absolute;
+    left: 11px;
+    top: 8px;
+    font-size: 10px !important; 
+}
+.mic{
+    position: absolute;
+    top: 8px;
+    right: 34px;
+    cursor: pointer;
+    font-size: 10px !important;
+}
+.cam{
+    position: absolute;
+    right: 12px;
+    top: 8px;
+    cursor: pointer;
+    font-size: 10px !important;
+}
+}
