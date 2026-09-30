@@ -42,6 +42,7 @@ html,body{
     text-align: center;
     padding-top: 12px;
     color: #c4c7c5;
+    font-size: 18px;
 }
 .circle-div:hover{
     background-color: #3a3939;
@@ -113,18 +114,21 @@ html,body{
     position: absolute;
     left: 14px;
     top: 14px;
+    font-size: 16px;
 }
 .mic{
     position: absolute;
     top: 15px;
     right: 55px;
     cursor: pointer;
+    font-size: 18px;
 }
 .cam{
     position: absolute;
     right: 15px;
     top: 15px;
     cursor: pointer;
+    font-size: 18px;
 }
 .span-1{
     position: absolute;
